@@ -16,7 +16,7 @@ print('''
  * [5] Mutton Biryani          :   260/plate       *
  * [6] Shahi Chicken           :   180/plate       *
  * [7] Sparkling Water         :   40/glass        *
- * [99] No I'm good place my order                  *
+ * [99] No I'm good place my order                 *
  ##################################################
         ''')
    
