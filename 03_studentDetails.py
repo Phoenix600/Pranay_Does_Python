@@ -3,7 +3,7 @@
 #   1.Name   2. Year  3. Section  4. Roll Number  5. Age  6. EmailId 7. Contact number
 
 print("*****************ENTER YOUR DETAILS********************")
-"[+]Name : "
+
 string_name  = input("[+]Name        : ")
 int_year     = input("[+]Year        : ")
 char_section = input("[+]Section     : ")

@@ -1,6 +1,7 @@
 # Printing The menu of Hotel
 
-print("Welcome to Hotel Taj....")
+print("*************Welcome to Hotel Taj**************")
+
 
 choice = True
 exit = "Y"
